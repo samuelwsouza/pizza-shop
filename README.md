@@ -1,8 +1,8 @@
-## Este projeto é uma aplicação web full-stack para uma pizzaria, desenvolvida com tecnologias modernas para oferecer uma experiência de usuário rápida e eficiente. 
+### Este projeto é uma aplicação web full-stack para uma pizzaria, desenvolvida com tecnologias modernas para oferecer uma experiência de usuário rápida e eficiente. 
 
-## O front-end é construído com React.js e TypeScript, estilizado com TailwindCSS, enquanto o back-end roda em um subsistema Linux utilizando Bun e Docker. 
+### O front-end é construído com React.js e TypeScript, estilizado com TailwindCSS, enquanto o back-end roda em um subsistema Linux utilizando Bun e Docker. 
 
-## Além disso, utilizamos Playwright para testes end-to-end (E2E), testes unitários, e integração contínua, assim como autenticação via Magic Link.
+###  Além disso, utilizamos Playwright para testes end-to-end (E2E), testes unitários, e integração contínua, assim como autenticação via Magic Link.
 
 ### Tecnologias Utilizadas
 #### Front-end
